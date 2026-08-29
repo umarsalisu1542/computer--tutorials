@@ -441,15 +441,15 @@
 
   <div class="auth-box">
     <label style="font-weight:600;">Email</label>
-    <input type="email" id="adminEmail" placeholder="admin@yourdomain.com" value="admin@yourdomain.com" />
+    <input type="email" id="adminEmail" placeholder="umarsalisu1542@gmail.com value="umarsalisu1542@gmail.com" />
 
     <label style="font-weight:600;">Password</label>
-    <input type="password" id="adminPassword" placeholder="••••••••" value="SecurePass123" />
+    <input type="password" id="adminPassword" placeholder="••••••••" value="umar@1542 />
 
     <button class="btn" onclick="adminLogin()" style="width:100%;">Login</button>
 
     <p style="margin-top:15px;text-align:center;color:#888;font-size:13px;">
-      Default: admin@yourdomain.com / SecurePass123
+      Default: umarsalisu1542@gmail.com / umar@1542
     </p>
   </div>
 </section>
